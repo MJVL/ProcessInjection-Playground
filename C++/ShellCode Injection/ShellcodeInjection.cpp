@@ -64,9 +64,7 @@ bool SetupSeDebug() {
 		printf("success!\n");
 
 	}
-	else {
-		printf("true\n");
-	}
+	printf("true\n");
 	return true;
 }
 
